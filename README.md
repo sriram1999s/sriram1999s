@@ -10,7 +10,7 @@ I am highly interested in Systems & core computing, performance engineering and 
 - ⚡ Fun fact: ... I am addicted to sports 😄 
 
 
-![Sriram on GitHub](https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=dark)
+![Sriram on GitHub](https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=radical)
 
 ### Languages, Tools and Frameworks
 
