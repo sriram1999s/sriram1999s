@@ -10,10 +10,10 @@ I am highly interested in systems & core computing, performance engineering and 
 - ⚡ Fun fact: ... I am addicted to sports 😄 
 
 
-![Sriram's GitHub](https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=blue-green)
+![Sriram's GitHub](https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=cobalt)
 
 ### Languages, Tools and Frameworks
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram1999s&layout=compact&hide=javascript,html,css,php&theme=blue-green)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram1999s&layout=compact&hide=javascript,html,css,php&theme=cobalt)
 
 <img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
