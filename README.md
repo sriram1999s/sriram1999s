@@ -10,10 +10,10 @@ I am highly interested in systems & core computing, performance engineering and 
 - ⚡ Fun fact: ... I am addicted to sports 😄 
 
 
-![Sriram's GitHub](https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=blue-green)
+![Sriram's GitHub](https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=onedark)
 
 ### Languages, Tools and Frameworks
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sriram1999s&layout=compact&hide=javascript,html,css,php&theme=onedark)
 
 <img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
@@ -23,6 +23,8 @@ I am highly interested in systems & core computing, performance engineering and 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+
+
 
 <!--
 **sriram1999s/sriram1999s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
