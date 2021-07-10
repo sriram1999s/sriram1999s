@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Sriram Subramanian
+### My name is Sriram Subramanian <img width="150" align="right" src="https://media.giphy.com/media/jR02MShfuA0Pw83pZs/giphy.gif">
 
 I am persuing my B.Tech in computer science & engineering @PES University, Bangalore.
 
