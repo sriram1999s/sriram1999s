@@ -23,14 +23,21 @@ I am highly interested in systems & core computing, performance engineering and 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Shellscript](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 
-<!-- <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=cobalt"> <br> <img alt = "Top Language" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram1999s&layout=compact&hide=javascript,html,css,php&theme=cobalt" -->
-
-<a href="https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=cobalt">
+<!-- <a href="https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=cobalt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram1999s&layout=compact&hide=javascript,html,css,php&theme=cobalt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram1999s&layout=compact&hide=javascript,html,css,php&theme=cobalt" />
-</a>
+</a> -->
+
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=cobalt">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram1999s&layout=compact&hide=javascript,html,css,php&theme=cobalt"
+</p>
+</details>
 
 <!--
 **sriram1999s/sriram1999s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
