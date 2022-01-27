@@ -1,6 +1,6 @@
 ### Hi there 👋
-### My name is Sriram Subramanian <img width="150" align="right" src="https://media.giphy.com/media/jR02MShfuA0Pw83pZs/giphy.gif">
-
+### My name is Sriram Subramanian <img width="150" align="right" src="https://media.giphy.com/media/jR02MShfuA0Pw83pZs/giphy.gif"> 
+  
 I am persuing my B.Tech in computer science & engineering @PES University, Bangalore.
 
 I am highly interested in systems & core computing, performance engineering and software development.
@@ -9,19 +9,28 @@ I am highly interested in systems & core computing, performance engineering and 
 - 🌱 I’m currently learning ... ```Rust```, ```OpenGl``` and ```Piston```
 - ⚡ Fun fact: ... I am addicted to sports 😄 
 
+#### Contacts
+<a href="https://www.linkedin.com/in/sriram-subramanian-7a64181ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://discordapp.com/users/WubbaLubbaDubDub#4545"><img alt = "Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="mailto:sriramsub7@gmail.com"><img alt = "Discord" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+
 #### Languages, Tools and Technologies
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Rust](https://img.shields.io/badge/-Rust-brown?style=flat-square&logo=rust)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)
-![Atom](https://img.shields.io/badge/-Atom-darkgreen?style=flat-square&logo=atom)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![OpenGl](https://img.shields.io/badge/-OpenGl-darkgreen?style=flat-square&logo=opengl)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
+![Rust](https://img.shields.io/badge/-Rust-brown?style=flat&logo=rust)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-5391FE?style=flat&logo=PowerShell&logoColor=white)
+![Atom](https://img.shields.io/badge/-Atom-darkgreen?style=flat&logo=atom)
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat&logo=gnu-emacs&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![OpenGl](https://img.shields.io/badge/-OpenGl-darkgreen?style=flat&logo=opengl)
 ![Shellscript](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![PopOs](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white)
+
 
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=cobalt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=cobalt" />
