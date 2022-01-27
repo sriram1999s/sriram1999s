@@ -30,6 +30,9 @@ I am highly interested in systems & core computing, performance engineering and 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram1999s&layout=compact&hide=javascript,html,css,php&theme=cobalt" />
 </a> -->
 
+#### My Publications
+![IEEE Xplore](https://img.shields.io/badge/IEEE-121011?style=flat&logo=ieee-bash&logoColor=white) [Teaching Aid For Program Optimization](https://ieeexplore.ieee.org/document/9645908)
+
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
