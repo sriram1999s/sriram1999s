@@ -10,9 +10,9 @@ I am highly interested in systems & core computing, performance engineering and 
 - ⚡ Fun fact: ... I am addicted to sports 😄 
 
 #### Contacts
-<a href="https://www.linkedin.com/in/sriram-subramanian-7a64181ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://discordapp.com/users/WubbaLubbaDubDub#4545"><img alt = "Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="mailto:sriramsub7@gmail.com"><img alt = "Discord" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sriram-subramanian-7a64181ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://discordapp.com/users/WubbaLubbaDubDub#4545"><img alt = "Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"></a>
+<a href="mailto:sriramsub7@gmail.com"><img alt = "Discord" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 
 
 #### Languages, Tools and Technologies
