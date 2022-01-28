@@ -40,7 +40,7 @@ I am highly interested in systems & core computing, performance engineering and 
 </a> -->
 
 #### My Publications
-![IEEE Xplore](https://img.shields.io/badge/IEEE-121011?style=flat&logo=ieee-bash&logoColor=white) [Teaching Aid For Program Optimization](https://ieeexplore.ieee.org/document/9645908)
+<a href="https://ieeexplore.ieee.org/document/9645908">![IEEE Xplore](https://img.shields.io/badge/Teaching_Aid_For_Program_Optimization-blue?style=flat&logo=ieee&logoColor=white)</a>
 
 <details>
 <summary>Click for GitHub Stats</summary>
