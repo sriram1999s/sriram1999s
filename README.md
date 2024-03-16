@@ -1,13 +1,12 @@
 ### Hi there 👋
 ### My name is Sriram Subramanian <img width="150" align="right" src="https://media.giphy.com/media/jR02MShfuA0Pw83pZs/giphy.gif"> 
   
-I am persuing my B.Tech in computer science & engineering @PES University, Bangalore.
+I am a software development engineer.
 
 I am highly interested in systems & core computing, performance engineering and software development.
 
 - 🔭 I’m currently working on ... Coptimizer: an automated tool for optimization of C code, Mitosis simulation and Key Logging.
-- 🌱 I’m currently learning ... ```Rust```, ```OpenGl``` and ```Piston```
-- ⚡ Fun fact: ... I am addicted to sports 😄 
+- 🌱 I’m currently learning ... ```Rust```
 
 #### Contacts
 <a href="https://www.linkedin.com/in/sriram-subramanian-7a64181ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
