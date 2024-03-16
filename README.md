@@ -44,7 +44,7 @@ I am highly interested in systems & core computing, performance engineering and 
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=cobalt">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriram1999s&layout=compact&hide=javascript,html,css,php&theme=cobalt"
 </p>
