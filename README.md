@@ -5,7 +5,7 @@ I am a software development engineer.
 
 I am highly interested in systems & core computing, performance engineering and software development.
 
-- 🔭 I’m currently working on ... Coptimizer: an automated tool for optimization of C code, Mitosis simulation and Key Logging.
+- 🔭 I’m currently working on ... Weenix: a monolithic kernel based on 6th edition Unix, kite-shell: a lightweight shell written in cpp and Raft.
 - 🌱 I’m currently learning ... ```Rust```
 
 #### Contacts
