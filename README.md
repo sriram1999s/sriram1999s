@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Sriram Subramanian <img width="150" align="right" src="https://media.giphy.com/media/jR02MShfuA0Pw83pZs/giphy.gif"> 
   
-I am a software development engineer.
+I am a systems software engineer and a graduate student @ usc.
 
 I am highly interested in systems & core computing, performance engineering and software development.
 
