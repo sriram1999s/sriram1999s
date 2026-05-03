@@ -1,12 +1,12 @@
 ### Hi there 👋
-### My name is Sriram Subramanian <img width="150" align="right" src="https://media.giphy.com/media/jR02MShfuA0Pw83pZs/giphy.gif"> 
+### My name is Sriram Subramanian <img width="150" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ2Y2YyeGZ0YXM5MjNnYzA3eGVhb2QzN2pxampud3RsZjFjcXc0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif"> 
   
 I am a systems software engineer and a graduate student @ USC.
 
 I am highly interested in systems & core computing, performance engineering and software development.
 
-- 🔭 I’m currently working on ... Weenix: a monolithic kernel based on 6th edition Unix, kite-shell: a lightweight shell written in cpp and Raft.
-- 🌱 I’m currently learning ... ```Rust```
+- 🔭 I’m currently working on ... Weenix: a monolithic kernel based on 6th edition Unix, kite-shell: a lightweight shell written in cpp, Raft consensus for a KV Store, Distributed Make and a GPU-accelerated RegEx engine.
+- 🌱 I’m currently learning ... ```Rust``` & ```CUDA```
 
 #### Contacts
 <a href="https://www.linkedin.com/in/sriram-subramanian-7a64181ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
@@ -29,6 +29,7 @@ I am highly interested in systems & core computing, performance engineering and 
 ![Shellscript](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![PopOs](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 
 
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=sriram1999s&count_private=true&show_icons=true&theme=cobalt">
