@@ -3,7 +3,7 @@
   
 I am a systems software engineer and a graduate student @ USC.
 
-I am highly interested in systems & core computing, performance engineering and software development.
+I am interested in systems & core computing, performance engineering and high performance computing.
 
 - 🔭 I’m currently working on ... Weenix: a monolithic kernel based on 6th edition Unix, kite-shell: a lightweight shell written in cpp, Raft consensus for a KV Store, Distributed Make and a GPU-accelerated RegEx engine.
 - 🌱 I’m currently learning ... ```Rust``` & ```CUDA```
